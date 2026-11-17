@@ -1,7 +1,6 @@
 /*can1_driver.c*/
 
 #include <LPC21xx.H>
-
 #include "header.h"
 
 
