@@ -1,6 +1,5 @@
 /*header.h*/
 
-
 typedef unsigned char u8;
 
 typedef signed char s8;
