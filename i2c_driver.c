@@ -1,5 +1,4 @@
 /* i2c_driver.c */
-
 #include <LPC21xx.H>
 #include "header.h"
 
